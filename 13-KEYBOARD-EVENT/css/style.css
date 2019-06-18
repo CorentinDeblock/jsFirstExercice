@@ -1,0 +1,15 @@
+#character {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.highlight {
+  opacity: 0.5;
+}
+
+/*# sourceMappingURL=style.css.map */
